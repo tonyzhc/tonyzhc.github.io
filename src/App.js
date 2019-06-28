@@ -18,6 +18,12 @@ function App() {
         >
           Learn React
         </a>
+        <a
+          href="https://www.youtube.com/watch?v=7q2DrrQ33OQ"
+          className="App-link"
+        >
+          Just a song
+        </a>
       </header>
     </div>
   );
